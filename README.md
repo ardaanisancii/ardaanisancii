@@ -1,13 +1,14 @@
 [![MasterHead](https://i.pinimg.com/736x/9d/38/48/9d3848fbac605223bcced2dbfe23b30f.jpg)
-<h1 align="center">Hi 👋, I'm ardaanisancii</h1>
-<h3 align="center">A passionate BackDeveloper From Turkey</h3>
+<h1 align="center">ardaanisancii</h1>
+<h3 align="center">BackEnd Developer From Turkey</h3>
 
 - 📫 How to reach me **ardaanisancii@gmail.com**
 
-- 📄 Know about my experiences [Siber güvenlik ile başladığım bu serüvende kodlamaya geçtim başta python, golang sonrasında c++ ve c# öğrenmeye başladım ve hala kendimi geliştiriyorum]
+- 📄 Know about my experiences [Siber güvenlik ile başladığım bu serüvende kodlamaya geçtim başta python, golang sonrasında c++ ve c# öğrenmeye başladım ve hala kendimi geliştiriyorum](Siber güvenlik ile başladığım bu serüvende kodlamaya geçtim başta python, golang sonrasında c++ ve c# öğrenmeye başladım ve hala kendimi geliştiriyorum)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/arda-nişancı-bbb505366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arda-ni%c5%9fanc%c4%b1-bbb505366/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/arda-nişancı-bbb505366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arda-nişancı-bbb505366" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
