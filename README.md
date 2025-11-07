@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/736x/f5/ca/97/f5ca97a5c602acd2a3862ee04d0e62d5.jpg)
 [![MasterHead](https://i.pinimg.com/736x/9d/38/48/9d3848fbac605223bcced2dbfe23b30f.jpg)
 <h1 align="center">Hi 👋, I'm ardaanisancii</h1>
 <h3 align="center">A passionate BackDeveloper From Turkey</h3>
