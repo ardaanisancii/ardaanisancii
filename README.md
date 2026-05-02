@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **ardaanisancii@gmail.com**
 
-- 📄 Know about my experiences [Siber güvenlik ile başladığım bu serüvende kodlamaya geçtim başta python, golang sonrasında c++ ve c# öğrenmeye başladım ve hala kendimi c# c++ alanlarında geliştiriyorum kali linuxu ve ubuntuyu iyi seviyede kullanmayı biliyorum]
+- 📄 Know about my experiences [Siber güvenlik ile başladığım bu serüvende kodlamaya geçtim başta python, golang sonrasında c++ ve c# öğrenmeye başladım ve hala kendimi c# alanında geliştiriyorum
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/arda-nişancı-bbb505366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arda-nişancı-bbb505366" height="30" width="40" /></a>
